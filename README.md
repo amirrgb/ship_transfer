@@ -1,2 +1,2 @@
 # ship_transfer
-This project is a web scraper written in Python using Selenium. It extracts the time required for delivery of UPS Ground services between two zip codes and stores the data in an Excel file.
+This web scraping project utilizes the Selenium library to extract data from the UPS website. It specifically targets the time required for delivery of UPS Ground services between two zip codes. The extracted data is then stored in an Excel file. The project also includes functions for reading earlier data, validating input, and updating data. The code is well-documented and includes error handling for robustness. Overall, this project provides a useful tool for businesses and individuals who need to track delivery times and optimize their shipping processes.
